@@ -7,14 +7,13 @@
       "name": "FatVictor",
       "publisher": "Mitchell Smit",
       "tray_image_file": "tray_Victor.png",
-      "publisher_email":"mitchell.smit@hotmail.com",
+      "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_Victor_fat.webp",
-          "emoji":""
+          "image_file": "01_Victor_fat.webp"
         }
       ]
     }
